@@ -3,8 +3,8 @@
 
 1) Data Exploration
 2) Data Cleaning
-  i) Filling missing values \n
-  ii) Changing Datatype of columns
-  iii) Replacing errors while data collection with right values
+  i) Filling missing values  
+  ii) Changing Datatype of columns  
+  iii) Replacing errors while data collection with right values  
 3) Univariate Analysis
 4) Bivariate Analysis
