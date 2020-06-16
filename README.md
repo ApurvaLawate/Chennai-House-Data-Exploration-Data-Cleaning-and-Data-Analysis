@@ -1,4 +1,4 @@
-# Chennai-House-Data-Exploration-Data-Cleaning-and-Data-Analysis
+# Chennai-House-Price-Prediction
 ## In this project we perform following operations:
 
 1) Data Exploration
@@ -8,3 +8,5 @@
   iii) Replacing errors while data collection with right values  
 3) Univariate Analysis
 4) Bivariate Analysis
+5) Linear Regression Model
+6) Model Evaluation with RMSLE
